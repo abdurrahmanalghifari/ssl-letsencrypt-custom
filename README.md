@@ -4,7 +4,7 @@
 
 ``` sh
 yum -y install epel-release certbot
-mkdir -p /opt/tsw-stg/nginx/conf/.well-known/acme-challenge
+mkdir -p /opt/stagging/nginx/conf/.well-known/acme-challenge
 ``` 
 
 
