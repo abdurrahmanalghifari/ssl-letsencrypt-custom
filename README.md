@@ -15,7 +15,7 @@ nanti akan kita daftarkan semua subdomain pada domain tersebut
     # Blok sebelum tutup paling bawah
     #---ACME WELLKNOWN---#
     location /.well-known {
-          alias /opt/nginx/conf/.well-known;
+          alias /opt/stagging/nginx/conf/.well-known;
     }
 
 ### Generate SSL 
@@ -34,8 +34,8 @@ cp -a /etc/letsencrypt/archive/domain.com /opt/stagging/nginx/conf/ssl/
 
 ``` sh
 #SSL LETSENCRYPT
-ssl_certificate /opt/nginx/conf/ssl/domain.com/fullchain1.pem;
-ssl_certificate_key /opt/nginx/conf/ssl/domain.com/privkey1.pem;
+ssl_certificate /opt/stagging/nginx/conf/ssl/domain.com/fullchain1.pem;
+ssl_certificate_key /opt/stagging/nginx/conf/ssl/domain.com/privkey1.pem;
 ```
 
 ### Test Nginx & Reload
