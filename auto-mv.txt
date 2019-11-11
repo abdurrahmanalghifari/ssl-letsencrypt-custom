@@ -1,0 +1,33 @@
+### backup
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/cert1.pem /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/cert1.pem$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/chain1.pem  /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/chain1.pem$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/fullchain1.pem  /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/fullchain1.pem$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/privkey1.pem  /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/privkey1.pem$(date +%d%m%y)
+
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/cert2.pem /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/cert1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/chain2.pem  /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/chain1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/fullchin2.pem  /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/fullchain1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/privkey2.pem  /opt/tsw-stg/nginx/conf/ssl2/transsnowworld.com/privkey1.pem
+
+
+### backup
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/cert1.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/cert1.pem$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/chain1.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/chain1.pem$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/fullchain1.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/fullchain1.pem$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/privkey1.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/privkey1.pem$(date +%d%m%y)
+
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/cert2.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/cert1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/chain2.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/chain1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/fullchain2.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/fullchain1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/privkey2.pem  /opt/tsw-stg/nginx/conf/ssl2/transstudiobali.com/privkey1.pem
+
+### backup
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/cert1.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/cert1.pem-$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/chain1.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/chain1.pem-$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/fullchain1.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/fullchain1.pem-$(date +%d%m%y)
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/privkey1.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/privkey1.pem-$(date +%d%m%y)
+
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/cert2.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/cert1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/chain2.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/chain1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/fullchain2.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/fullchain1.pem
+mv /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/privkey2.pem /opt/tsw-stg/nginx/conf/ssl2/transstudiocibubur.com/privkey1.pem
