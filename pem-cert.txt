@@ -1,0 +1,33 @@
+### backup
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/cert1.pem /opt/staging/nginx/conf/ssl2/cirebon.com/cert1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/chain1.pem  /opt/staging/nginx/conf/ssl2/cirebon.com/chain1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/fullchain1.pem  /opt/staging/nginx/conf/ssl2/cirebon.com/fullchain1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/privkey1.pem  /opt/staging/nginx/conf/ssl2/cirebon.com/privkey1.pem$(date +%d%m%y)
+
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/cert2.pem /opt/staging/nginx/conf/ssl2/cirebon.com/cert1.pem
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/chain2.pem  /opt/staging/nginx/conf/ssl2/cirebon.com/chain1.pem
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/fullchin2.pem  /opt/staging/nginx/conf/ssl2/cirebon.com/fullchain1.pem
+mv /opt/staging/nginx/conf/ssl2/cirebon.com/privkey2.pem  /opt/staging/nginx/conf/ssl2/cirebon.com/privkey1.pem
+
+
+### backup
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/cert1.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/cert1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/chain1.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/chain1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/fullchain1.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/fullchain1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/privkey1.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/privkey1.pem$(date +%d%m%y)
+
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/cert2.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/cert1.pem
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/chain2.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/chain1.pem
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/fullchain2.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/fullchain1.pem
+mv /opt/staging/nginx/conf/ssl2/bekasi.com/privkey2.pem  /opt/staging/nginx/conf/ssl2/bekasi.com/privkey1.pem
+
+### backup
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/cert1.pem /opt/staging/nginx/conf/ssl2/jakarta.com/cert1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/chain1.pem /opt/staging/nginx/conf/ssl2/jakarta.com/chain1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/fullchain1.pem /opt/staging/nginx/conf/ssl2/jakarta.com/fullchain1.pem$(date +%d%m%y)
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/privkey1.pem /opt/staging/nginx/conf/ssl2/jakarta.com/privkey1.pem$(date +%d%m%y)
+
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/cert2.pem /opt/staging/nginx/conf/ssl2/jakarta.com/cert1.pem
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/chain2.pem /opt/staging/nginx/conf/ssl2/jakarta.com/chain1.pem
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/fullchain2.pem /opt/staging/nginx/conf/ssl2/jakarta.com/fullchain1.pem
+mv /opt/staging/nginx/conf/ssl2/jakarta.com/privkey2.pem /opt/staging/nginx/conf/ssl2/jakarta.com/privkey1.pem
